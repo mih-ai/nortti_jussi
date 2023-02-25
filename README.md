@@ -6,6 +6,10 @@ Teknisesti "Nörtti-Jussi" on python-moduli, jota tarkastelemalla viimeisimmät 
 
 Kannattaa myös huomata, että "Nörtti-Jussin" pystyy asiansa osaava helposti kääntämään myös nk. "stand-alone" ohjelmaksi PyInstallerin avulla (https://pyinstaller.org/en/stable) vaikkapa oman arkikäytössä olevan windows-koneensa työpöydälle, siten että "Nörtti-Jussin" supervoimat ovat arkipäiväisessä työssä suoraan ja helposti saavutettavissa.  
 
+![image](https://user-images.githubusercontent.com/70188307/221369244-32511cf1-51a7-47c8-b42d-185246a4f5c0.png)
+
+
+
 # "Nörtti-Jussi" - "base code" equipped with an OpenAI interface for utilizing artificial intelligence
 
 "Nörtti-Jussi" is modeled after the legendary life stages of the legendary Finnish "Nätti-Jussi" (https://fi.wikipedia.org/wiki/N%C3%A4tti-Jussi) which include both truth and fiction, as Finnish folklore knows well. It may be that Nörtti-Jussi, when used correctly, can do almost as wonderful things as his role model Nätti-Jussi, or maybe not.
