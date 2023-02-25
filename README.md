@@ -6,6 +6,8 @@ Teknisesti "Nörtti-Jussi" on python-moduli, jota tarkastelemalla viimeisimmät 
 
 Kannattaa myös huomata, että "Nörtti-Jussin" pystyy asiansa osaava helposti kääntämään myös nk. "stand-alone" ohjelmaksi PyInstallerin avulla (https://pyinstaller.org/en/stable) vaikkapa oman arkikäytössä olevan windows-koneensa työpöydälle, siten että "Nörtti-Jussin" supervoimat ovat arkipäiväisessä työssä suoraan ja helposti saavutettavissa.  
 
+Huomaa että käyttääksesi ohjelmaa sinun tulee syöttää oma API-avaimesi sille varattuun kohtaan. 
+
 ![image](https://user-images.githubusercontent.com/70188307/221369244-32511cf1-51a7-47c8-b42d-185246a4f5c0.png)
 
 
@@ -17,6 +19,8 @@ Kannattaa myös huomata, että "Nörtti-Jussin" pystyy asiansa osaava helposti k
 Technically, "Nörtti-Jussi" is a python module that you can easily use by looking at the latest OpenAI (ChaptGPT) features. You can get more information about this by taking a closer look at the attached program code.
 
 It's also worth noting that "Nörtti-Jussi" can easily be turned into a so-called "stand-alone" program with the help of PyInstaller (https://pyinstaller.org/en/stable) for example on the desktop of one's own Windows machine that is in daily use, so that the superpowers of "Nörtti-Jussi" are directly and easily accessible in everyday work.
+
+Please note you need to fill in your own API-key to the desired place (see below). 
 
 ![image](https://user-images.githubusercontent.com/70188307/221369429-f2909258-721c-496f-9e75-2ba2aeaf7250.png)
 
