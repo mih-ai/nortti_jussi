@@ -85,7 +85,7 @@ def kysy():
     else:
         paivita_kuva("pohdi5.png")
     
-    openai.api_key=API_KEY
+    openai.api_key=API_KEY2
     model="text-davinci-003"
     prompt=kysymysteksti_kahva.get('1.0','end')
     print("Kysymyksen pituus oli: ",len(prompt))
@@ -102,12 +102,12 @@ def kysy():
         vastaus=response.choices[0].text
         paivita_kuva("pohdi_vastaus.png")
     except:
-        vastaus='Ei vastausta - Ernesti on kiireinen eli\nkahvitauolla,\nyritä parjäillä itseksesi! \n\nOn myös mahdollista että API-koodisi on väärä tai puuttuu, tarkista se!\n\n(If you did not understood, \nplease see translation for\nthis e.g. from google)'
+        vastaus='Ei vastausta - Nörtti-Jussi on\nkiireinen eli kahvitauolla,\nyritä parjäillä itseksesi! \n\nOn myös mahdollista että API-koodisi on väärä tai puuttuu, tarkista se!\n\n(If you did not understood, \nplease see translation for\nthis e.g. from google)'
         paivita_kuva("pohdi_kahvi.png")
 
     vastausteksti_kahva.delete(1.0,'end')
     vastausteksti_kahva.insert(1.0,vastaus)  
-    pygame.mixer.Sound.play(kysymys_aani)
+    pygame.mixer.Sound.play(vastaus_aani)
     painike['bg']='SeaGreen2'
     painike['text']='Öööh?'
     return vastaus
