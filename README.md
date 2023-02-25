@@ -18,3 +18,6 @@ Technically, "Nörtti-Jussi" is a python module that you can easily use by looki
 
 It's also worth noting that "Nörtti-Jussi" can easily be turned into a so-called "stand-alone" program with the help of PyInstaller (https://pyinstaller.org/en/stable) for example on the desktop of one's own Windows machine that is in daily use, so that the superpowers of "Nörtti-Jussi" are directly and easily accessible in everyday work.
 
+![image](https://user-images.githubusercontent.com/70188307/221369319-b138dd2d-0f0a-4f0a-81bb-345329823fcc.png)
+
+
