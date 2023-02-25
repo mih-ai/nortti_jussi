@@ -1,2 +1,2 @@
 # nortti_jussi
-"Nörtti-Jussi", legendaarisen suomalaisen "Nätti-Jussin" tekoälykäs jälkeläinen suoraan alenevassa polvessa.
+"Nörtti-Jussi", mahdollisesti legendaarisen suomalaisen "Nätti-Jussin" jälkeläinen suoraan alenevassa polvessa.
